@@ -7,8 +7,6 @@ export const metadata: Metadata = {
     openGraph: {
         title: "Obito Uchiha - Akatsuki Leader",
         description: "Discover the story of Obito Uchiha, the Akatsuki leader who was once a member of Konohagakure's Uchiha clan. Learn about his transformation from a loyal shinobi to a key figure in the Akatsuki.",
-        images: 
-            "advance-next/src/app/seo-friernly/opengraph-image.jpg",
             url: "https://www.obitou-uchiha-naruto.com",
             siteName: "Naruto Universe",
             locale: "id-ID",
